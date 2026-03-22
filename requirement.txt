@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+gurobipy
+cartopy
+adjustText
