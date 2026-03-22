@@ -33,4 +33,23 @@ The workflow consists of the following steps:
 
 ## ▶️ Run Order
 
-Run the scripts in the following order:
+Run the scripts in the following order: 1 → 2 → 3 → 4 → 5
+
+## ⚙️ Requirements
+
+- Python 3.x
+- Gurobi Optimizer
+- NumPy, Pandas, Matplotlib, Scikit-learn
+
+## 📌 Applications
+
+- Rail transportation planning
+- Hub network design
+- Logistics and supply chain optimization
+
+---
+
+## 👤 Author
+
+Chanchal Kumar Salode  
+PhD, IIT Delhi  
