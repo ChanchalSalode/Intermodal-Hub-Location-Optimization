@@ -18,7 +18,7 @@ The workflow consists of the following steps:
    - Node-to-hub and hub-to-hub distances
    - File: `03_hub_distance_matrix.py`
 
-4. **P-Hub Median Model**
+4. **p-Hub Median Model**
    - Mathematical formulation for hub selection
    - File: `04_p_hub_median_model.py`
 
